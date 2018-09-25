@@ -18,6 +18,9 @@ professional, and are easy to read. Use the
 have fun! :octocat:
 
 Full Name: Logan Anderson
+
 Lab Status: Complete
+
 Compilation instructions: 'gcc -o piku piku.s'
+
 Execution instructions: './piku'
