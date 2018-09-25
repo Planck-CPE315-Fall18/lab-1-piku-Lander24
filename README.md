@@ -17,3 +17,7 @@ professional, and are easy to read. Use the
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/), and
 have fun! :octocat:
 
+Full Name: Logan Anderson
+Lab Status: Complete
+Compilation instructions: 'gcc -o piku piku.s'
+Execution instructions: './piku'
